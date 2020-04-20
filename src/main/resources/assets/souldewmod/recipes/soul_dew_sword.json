@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" X ",
+		" X ",
+		" Z "
+	],
+	"key": {
+		"X": {
+			"item": "souldewmod:soul_ingot"
+		},
+		"Z": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "souldewmod:soul_dew_sword"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XYX",
+		" Z ",
+		" Z "
+	],
+	"key": {
+		"X": {
+			"item": "souldewmod:soul_ingot"
+		},
+		"Y": {
+			"item": "souldewmod:soul_dew"
+		},
+		"Z": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "souldewmod:soul_dew_pick"
+	}
+}

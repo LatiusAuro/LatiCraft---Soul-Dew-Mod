@@ -1,0 +1,16 @@
+[
+{
+  "modid": "souldewmod",
+  "name": "LatiCraft Soul Dew Mod",
+  "description": "The base mod of the LatiCraft mod set, which includes Soul Fragments, Soul Crystals, Soul Dews and Soul Ingots, as well as the basic tools which can be crafted using them.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LatiusAuro"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,10 @@
+# Items
+item.souldewmod.soul_crystal.name=Soul Crystal
+item.souldewmod.soul_dew.name=Soul Dew
+item.souldewmod.soul_dew_pick.name=Soul Dew Pick
+item.souldewmod.soul_dew_sword.name=Soul Dew Sword
+item.souldewmod.soul_essence.name=Soul Essence
+item.souldewmod.soul_ingot.name=Soul Ingot
+
+# Creative Tabs
+itemGroup.souldewmod=LatiCraft - Soul Dew

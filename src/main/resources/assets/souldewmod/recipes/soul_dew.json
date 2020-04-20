@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XXX",
+		"X#X",
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "souldewmod:soul_essence"
+		},
+		"#": {
+			"item": "souldewmod:soul_crystal"
+		}
+	},
+	"result": {
+		"item": "souldewmod:soul_dew"
+	}
+}
