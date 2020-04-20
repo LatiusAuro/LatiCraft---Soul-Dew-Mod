@@ -1,0 +1,41 @@
+LatiCraft Soul Dew Mod
+
+Soul Essence - Droped by mobs. Certain enchantments will improve the drop rates of Soul Essences. There are different tiers of Soul Essence:
+
+Tier 0 - Basic Soul Essence (Droped by passive mobs)
+
+Tier 1 - Soul Essence (Dropped by most overworld hostile mobs)
+
+Tier 2
+Advanced Soul Essence (Dropped by most Nether hostile mobs and some overworld hostile mobs)
+Lesser Wither Soul Essence (Dropped by Wither Skellingtons)
+
+Tier 3
+Ender Soul Essence (Dropped by Endermen)
+Shulker Soul Essence (Dropped by Shulkers)
+Greater Wither Soul Essence (Must be purified from Lesser Wither Soul Essences)
+
+Tier 4
+Draconic Soul Essence (Dropped by the Ender Dragon/Chicken always)
+Wither Soul Essence (Dropped by the Wither always)
+Chaotic Soul Essence (Dropped by the Chaos Dragon/Chicken always)
+
+
+Soul Crystal - Crafted from a single Soul Essence of any kind and 8 Glass Panes.
+
+
+Soul Dew - The main material of the mod, crafted in one of two ways:
+1) A Basic Soul Dew can be crafted on a Crafting Table using 8 Basic Soul Essences and/or Soul Essences along with a single Soul Crystal.
+2) Soul Dews, Advanced Soul Dews, Ender Soul Dews, Shulker Soul Dews, Draconic Soul Dews, Withering Soul Dews and Chaotic Soul Dews requires a Soul Crystalizer of the right tier, and a number of Soul Essences of the correct type.
+
+
+Basic Soul Crystalizer - Requires no power, and can create Basic Soul Dews and Soul Dews using 6 Soul Essences of the right type and a Soul Crystal. Built using a Crafting Table, a Furnace, 2 Quartz and 3 Basic Soul Dews
+Advanced Soul Crystalizer - Requires some power, but can create Advanced Soul Dews. New Soul Dews only need 4 Soul Essences of the right type and a Soul Crystal. Can be crafted using a Crafting Table, a Furnace, 2 Quartz Blocks and 5 Soul Dews, or a Basic Soul Crystalizer, 6 Quartz and 2 Soul Dews.
+Resonant Soul Crystalizer - Requires more power, but can make Ender and Shulker Soul Dews, with the Soul Essence cost being knocked down to 3. Can also make a Wither Soul Dew using 15 Lesser Wither Soul Essences (which have to be compressed into Greater Wither Soul Essences by combining 5 of them at a time) and a Soul Crystal. Must be crafted using an Advanced Soul Crystalizer, 4 Soul Dew Ingots of any kind and 4 Advanced Soul Dews.
+Draconic Soul Crystalizer - Requires the most power, but can make any non-Tier 4 Soul Dew with 2 Soul Essences and a Soul Crystal, and can even duplicate them using said Soul Dew and a Soul Crystal. But the best part about them is that you can turn a single Draconic/Wither/Chaotic Soul Essence (or 2 Greater Wither Soul Essences) and a Soul Crystal into their respective Soul Dews. Must be crafted using an Resonant Soul Crystalizer, 4 Advanced Soul Dew Ingots and 4 Tier 3 or 4 Soul Dew Ingots
+
+
+Soul Purifier - Can convert some types of Soul Essences upwards. Built using a wooden slab, any kind of non-basic Soul Dew, 2 Soul Crystals, a glass block and 4 stone bricks. It can convert Basic Soul Essences to Soul Essences at a rate of 8 Basic to 1 Soul Essence, Soul Essences to Advanced Soul Essences at a rate of 7 Soul Essences to 2 Advanced Soul Essenes, and Lesser Wither Soul Essences to Greater Wither Soul Essences at a rate of 5 to 1. The better the Soul Dew, the faster it can convert the Soul Essences, but the more power it needs to do so.
+
+
+Soul Ingot Compresser - Converts Soul Dews into Soul Dew Ingots. Built with two pistons, 2 Redstone Dust, 4 stone bricks and any kind of Soul Dew. The better the Soul Dew, the faster it can convert the Soul Dews, but the more power it needs to do so. Tier 0/1 Soul Dews create 2 ingots per Soul Dew, Tier 2 creates 3 ingots, Tier 3 creates 5 ingots and Tier 4 creates 9 ingots per Soul Dew.
