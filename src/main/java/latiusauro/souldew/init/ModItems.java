@@ -6,6 +6,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
 
 @ObjectHolder(SoulDewMod.MODID)
 public class ModItems {
+	
 	public static final Item SOUL_ESSENCE = null;
 	public static final Item SOUL_CRYSTAL = null;
 	public static final Item SOUL_DEW = null;

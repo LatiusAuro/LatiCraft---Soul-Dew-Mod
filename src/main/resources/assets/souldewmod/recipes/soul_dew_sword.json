@@ -2,12 +2,51 @@
 	"type": "minecraft:crafting_shaped",
 	"pattern": [
 		" X ",
-		" X ",
+		" Y ",
 		" Z "
 	],
 	"key": {
-		"X": {
-			"item": "souldewmod:soul_ingot"
+		"X": [
+			{
+				"item": "souldewmod:soul_ingot",
+				"data": 0
+			},
+			{
+				"item": "souldewmod:soul_ingot",
+				"data": 1
+			},
+			{
+				"item": "souldewmod:soul_ingot",
+				"data": 2
+			},
+			{
+				"item": "souldewmod:soul_ingot",
+				"data": 3
+			},
+			{
+				"item": "souldewmod:soul_ingot",
+				"data": 4
+			},
+			{
+				"item": "souldewmod:soul_ingot",
+				"data": 5
+			},
+			{
+				"item": "souldewmod:soul_ingot",
+				"data": 6
+			},
+			{
+				"item": "souldewmod:soul_ingot",
+				"data": 7
+			},
+			{
+				"item": "souldewmod:soul_ingot",
+				"data": 8
+			}
+		],
+		"Y": {
+			"item": "souldewmod:soul_dew",
+			"data": 0
 		},
 		"Z": {
 			"item": "minecraft:stick"

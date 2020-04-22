@@ -15,10 +15,10 @@ public class RegistrationHandler {
 	@SubscribeEvent
 	public static void registerItems(Register<Item> event) {
 		final Item[] items = {
-				new Item().setRegistryName(SoulDewMod.MODID, "soul_essence").setTranslationKey(SoulDewMod.MODID + "." + "soul_essence").setCreativeTab(SoulDewMod.SOUL_DEW_TAB),
+				new Item().setRegistryName(SoulDewMod.MODID, "soul_essence").setTranslationKey(SoulDewMod.MODID + "." + "soul_essence").setCreativeTab(SoulDewMod.SOUL_DEW_TAB).setHasSubtypes(true),
 				new Item().setRegistryName(SoulDewMod.MODID, "soul_crystal").setTranslationKey(SoulDewMod.MODID + "." + "soul_crystal").setCreativeTab(SoulDewMod.SOUL_DEW_TAB),
-				new Item().setRegistryName(SoulDewMod.MODID, "soul_dew").setTranslationKey(SoulDewMod.MODID + "." + "soul_dew").setCreativeTab(SoulDewMod.SOUL_DEW_TAB),
-				new Item().setRegistryName(SoulDewMod.MODID, "soul_ingot").setTranslationKey(SoulDewMod.MODID + "." + "soul_ingot").setCreativeTab(SoulDewMod.SOUL_DEW_TAB),
+				new Item().setRegistryName(SoulDewMod.MODID, "soul_dew").setTranslationKey(SoulDewMod.MODID + "." + "soul_dew").setCreativeTab(SoulDewMod.SOUL_DEW_TAB).setHasSubtypes(true),
+				new Item().setRegistryName(SoulDewMod.MODID, "soul_ingot").setTranslationKey(SoulDewMod.MODID + "." + "soul_ingot").setCreativeTab(SoulDewMod.SOUL_DEW_TAB).setHasSubtypes(true),
 				new ItemSoulSword(SoulDewMaterials.BASIC_SOUL_DEW).setRegistryName(SoulDewMod.MODID, "soul_dew_sword").setTranslationKey(SoulDewMod.MODID + "." + "soul_dew_sword").setCreativeTab(SoulDewMod.SOUL_DEW_TAB),
 				new ItemSoulPickaxe(SoulDewMaterials.BASIC_SOUL_DEW).setRegistryName(SoulDewMod.MODID, "soul_dew_pick").setTranslationKey(SoulDewMod.MODID + "." + "soul_dew_pick").setCreativeTab(SoulDewMod.SOUL_DEW_TAB),
 				

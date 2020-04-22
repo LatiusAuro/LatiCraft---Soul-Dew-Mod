@@ -6,14 +6,22 @@
 		"XXX"
 	],
 	"key": {
-		"X": {
-			"item": "souldewmod:soul_essence"
-		},
+		"X": [
+			{
+				"item": "souldewmod:soul_essence",
+				"data": 0
+			},
+			{
+				"item": "souldewmod:soul_essence",
+				"data": 1
+			}
+		],
 		"#": {
 			"item": "souldewmod:soul_crystal"
 		}
 	},
 	"result": {
-		"item": "souldewmod:soul_dew"
+		"item": "souldewmod:soul_dew",
+		"data": 0
 	}
 }
